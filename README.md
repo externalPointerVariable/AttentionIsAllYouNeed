@@ -34,6 +34,6 @@ Some key ideas:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/attention-is-all-you-need.git
-cd attention-is-all-you-need
+git clone https://github.com/externalPointerVariable/AttentionIsAllYouNeed.git
+cd AttentionIsAllYouNeed
 ```
